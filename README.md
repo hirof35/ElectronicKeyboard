@@ -5,6 +5,5 @@ javac electronicKeyboard/ElectronicKeyboard.java
 java electronicKeyboard.ElectronicKeyboard
 📝 ライセンスこのプロジェクトは MITライセンス の下で公開されています。Created with the harmony of sound and vision.💡 今後のロードマップ[ ] 録音および再生機能の追加[ ] 外部MIDIデバイスからの入力サポート[ ] パーティクルスタイルのカスタマイズ設定
 
-
-Uploading Java MIDI Visualizer Keyboard 2026-05-03 10-57-37.mp4…
+![Uploading スクリーンショット 2026-05-03 105943.png…]()
 
